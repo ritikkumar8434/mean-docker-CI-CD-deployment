@@ -384,6 +384,3 @@ pipeline {
 
 ---
 
-### ✔️ Assignment Completed
-This project satisfies all Deliverables required by Discover Dollar for the DevOps Intern assignment.
-
